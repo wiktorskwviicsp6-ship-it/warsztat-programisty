@@ -1,0 +1,13 @@
+cp
+Polecenie służy do kopiowania plików oraz całych katalogów z jednego miejsca w drugie.
+Pozwala na tworzenie dokładnych kopii zapasowych,
+zmianę nazw kopiowanych obiektów oraz zachowanie ich oryginalnych uprawnień.
+ls
+Narzędzie to wyświetla zawartość wskazanego katalogu, 
+listując znajdujące się w nim pliki i foldery. 
+Przy użyciu odpowiednich opcji pozwala zobaczyć szczegółowe informacje, 
+takie jak rozmiar plików, prawa dostępu czy data ich modyfikacji.
+tree
+Program ten wyświetla strukturę katalogów w formie czytelnego, graficznego drzewa tekstowego. 
+Ułatwia to wizualną orientację w głęboko zagnieżdżonych folderach i 
+szybkie zrozumienie układu plików na dysku.
